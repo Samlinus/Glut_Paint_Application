@@ -19,25 +19,25 @@
 -	Eraser – To erase the sketchings.
 - RGB Sliders – To select the appropriate colour the pen.
 
-# Shape Drawing: 
+## Shape Drawing: 
 - Users can draw lines, squares, and ellipses interactively. When drawing a shape, the application provides live updates to enhance the user experience.
 
-# RGB Sliders: 
+## RGB Sliders: 
   -The application includes three RGB sliders (red, green, blue) that allow users to customize the pen colour by selecting the desired colour values. These sliders provide immediate visual feedback.
 
-# Eraser Tool: 
+## Eraser Tool: 
   - Users have the option to switch to an eraser tool, which allows them to erase drawings or parts of them with adjustable point sizes.
 
-# Pencil Mode: 
+## Pencil Mode: 
   - In pencil mode, users can create freehand sketches. The application supports different point sizes to achieve various drawing effects.
 
-# UI Buttons: 
+## UI Buttons: 
   - The user interface features buttons for switching between different drawing modes, such as line, square, oval, pencil, and eraser. Users can also adjust the point size, and there are buttons for increasing and decreasing it.
 
-# Live Feedback:
+## Live Feedback:
   - Real-time updates are provided while drawing shapes, changing colours, or adjusting point sizes. This live feedback ensures that users can see their creations as they work.
 
-Viewport Management: 
+## Viewport Management: 
   - The application defines a viewport and scissor to restrict drawing to a specified area, enhancing clarity and focus.
 
 # Summary:
