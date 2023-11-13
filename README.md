@@ -10,15 +10,17 @@
 
 	 
 # Functionalities:
-•	Drawing shapes,
-o	Line
-o	Rectangle, square
-o	Ellipse, circle
-•	Pencil sketching
-•	Quit button - to exit the application.
-•	Eraser – To erase the sketchings.
-•	RGB Sliders – To select the appropriate colour the pen.
-Shape Drawing: Users can draw lines, squares, and ellipses interactively. When drawing a shape, the application provides live updates to enhance the user experience.
+-	Drawing shapes,
+-	Line
+-	Rectangle, square
+-	Ellipse, circle
+-	Pencil sketching
+-	Quit button - to exit the application.
+-	Eraser – To erase the sketchings.
+- RGB Sliders – To select the appropriate colour the pen.
+
+# Shape Drawing: 
+- Users can draw lines, squares, and ellipses interactively. When drawing a shape, the application provides live updates to enhance the user experience.
 
 # RGB Sliders: 
   -The application includes three RGB sliders (red, green, blue) that allow users to customize the pen colour by selecting the desired colour values. These sliders provide immediate visual feedback.
