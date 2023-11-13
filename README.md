@@ -23,7 +23,7 @@
 - Users can draw lines, squares, and ellipses interactively. When drawing a shape, the application provides live updates to enhance the user experience.
 
 ## RGB Sliders: 
-  -The application includes three RGB sliders (red, green, blue) that allow users to customize the pen colour by selecting the desired colour values. These sliders provide immediate visual feedback.
+- The application includes three RGB sliders (red, green, blue) that allow users to customize the pen colour by selecting the desired colour values. These sliders provide immediate visual feedback.
 
 ## Eraser Tool: 
   - Users have the option to switch to an eraser tool, which allows them to erase drawings or parts of them with adjustable point sizes.
